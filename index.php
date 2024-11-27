@@ -176,7 +176,7 @@
 </head>
 <body>
     <div class="container-input" id="inputPage">
-        <img src="your-logo-url.jpg" alt="Logo" id="logo">
+        <img src="./images/logo.jpg" alt="Logo" id="logo">
         <h2 id="head-description">Loan Calculator</h2>
         <form id="loanForm" method="POST">
             <div class="form-group">
